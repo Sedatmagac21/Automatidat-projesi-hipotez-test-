@@ -1,7 +1,5 @@
 # 🚕 New York City TLC Projesi: Ücret Tahmini, İstatistiksel İnceleme ve A/B Testi
 
-![Proje Akışı Görevler](https://i.imgur.com/example-of-project-flow.png)
-
 ### 📌 Giriş
 
 Bu proje, New York City Taksi ve Limuzin Komisyonu (TLC) verilerini analiz ederek, taksi ücretlerini etkileyen faktörleri derinlemesine incelemektedir. Projenin temel amacı, her yolculuktan önce taksi ücretlerini tahmin etmek ve taksi şoförleri için **daha fazla gelir elde etmenin yollarını bulmaktır**.
